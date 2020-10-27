@@ -1,3 +1,6 @@
+
 class Demo{
-  system.out.println("Hello");
+
+  system.out.println("Hi gays");
+  
 }
